@@ -1,4 +1,8 @@
 ## Hi there 👋
+<img width="1024" height="1024" alt="Шериф" src="https://github.com/user-attachments/assets/47ca8cca-8b02-465a-94f5-96bf8621babc" />
+<img width="1024" height="1024" alt="Старушка Рут" src="https://github.com/user-attachments/assets/275c71de-3bc7-4bd8-8e52-5e8e4923098b" />
+<img width="1024" height="1024" alt="БАндит Фантом" src="https://github.com/user-attachments/assets/5fbe49e6-e347-4046-a1fb-44a8fb0bfd1a" />
+
 
 <!--
 **tratmik14/tratmik14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
