@@ -3,7 +3,7 @@
 
 # Привет, я Тихон Шимаров 👋
 
-<img class="profile-img" src="https://github.com/<ВашНик>/<ВашНик>/blob/main/profile-photo.jpg?raw=true" alt="Фото профиля" width="150">
+
 
 ## Junior Python-разработчик | Автоматизация тестирования
 
