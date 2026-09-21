@@ -1,7 +1,7 @@
 ## 
 
 
-# Привет, я Тихон Шимаров 👋
+# Привет, я Тихон  👋
 
 
 
@@ -10,9 +10,9 @@
 **Пишу чистый код, решаю алгоритмические задачи**
 
 <!-- Статичные ссылки оставляем как есть, они уже имеют микро-анимации от GitHub -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ваш-профиль)](https://www.linkedin.com/in/ваш-профиль)
-[![Telegram](https://img.shields.io/badge/-Telegram-critical?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ваш_ник)](https://t.me/ваш_ник)
-[![Email](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
+
+[![Telegram](https://img.shields.io/badge/-Telegram-critical?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/txnxx)](https://t.me/txnxx)
+[![Email](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:tratmik14@gmail.com)](mailto:tratmik14@gmail.com)
 
 ---
 </div>
