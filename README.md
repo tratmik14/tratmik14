@@ -21,6 +21,7 @@
 <span class="lang-badge">Python</span><span class="lang-badge">SQL</span><span class="lang-badge">Docker</span><span class="lang-badge">PostgreSQL</span>
 
 ### 📂 Популярные проекты
+Калькулятор на Python
 <div class="project-card card-1">
 
 📍 **Город:** Москва, Россия<br>
